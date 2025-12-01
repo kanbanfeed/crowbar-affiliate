@@ -1,6 +1,6 @@
 export default function Footer() {
   return (
-    <footer className="relative mt-24 bg-[#211832] text-white overflow-hidden">
+    <footer className="relative  bg-[#211832] text-white overflow-hidden">
 
       {/* Top Glow Line */}
       <div className="absolute inset-x-0 -top-4 h-10 bg-gradient-to-r from-indigo-500/30 via-purple-500/30 to-pink-500/30 blur-2xl opacity-80" />
