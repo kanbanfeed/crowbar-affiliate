@@ -36,6 +36,12 @@ export default function Navbar() {
 
         {/* Navigation */}
         <nav className="flex items-center gap-8">
+           <Link
+            href="/"
+            className="text-slate-600 hover:text-slate-900 transition font-medium"
+          >
+            Home
+          </Link>
           <Link
             href="/affiliate"
             className="text-slate-600 hover:text-slate-900 transition font-medium"
