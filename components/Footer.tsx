@@ -27,7 +27,7 @@ export default function Footer() {
 
           {/* Rights */}
           <div className="text-center md:text-right text-sm text-slate-300">
-            © 2024 Crowbar Connected Network  
+            © 2025 Crowbar Connected Network  
             <br />
             <span className="text-xs text-slate-400">
               Empowering Creators • Unified Ecosystem • Growth Engine
